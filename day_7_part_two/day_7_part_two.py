@@ -35,4 +35,4 @@ def parse_line(line: str):
 
 
 if __name__ == '__main__':
-    solve_part_two('day7_input.txt')
+    solve_part_two('day_7_input.txt')
