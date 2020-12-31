@@ -86,5 +86,5 @@ def solve_part_two(filename):
 
 
 if __name__ == '__main__':
-    solve_part_one('day11_input.txt')
-    solve_part_two('day11_input.txt')
+    solve_part_one('day_11_input.txt')
+    solve_part_two('day_11_input.txt')
